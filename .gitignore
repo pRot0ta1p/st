@@ -1,6 +1,7 @@
 st
 st.o
 x.o
+boxdraw.o
 *.orig
 *.rej
 *.diff
